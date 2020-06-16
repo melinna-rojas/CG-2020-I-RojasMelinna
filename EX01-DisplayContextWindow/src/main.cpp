@@ -22,9 +22,6 @@ GLFWwindow* window;
 
 using namespace std;
 
-int dimVertices;
-int numberOfVertices;
-
 void display(double currentTime) {
 	// Clear the screen
 	// Bright green background! - fav color
