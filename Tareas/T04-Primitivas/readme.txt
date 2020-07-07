@@ -1,0 +1,1 @@
+Estoy usando EBO para evitar repiter los puntos del rectangulo
