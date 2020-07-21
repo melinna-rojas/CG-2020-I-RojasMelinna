@@ -1,9 +1,3 @@
-//============================================================================
-// Name        : Move color with object
-// Professor   : Herminio Paucar
-// Version     :
-// Description :
-//============================================================================
 
 // Include standard headers
 #include <stdio.h>
